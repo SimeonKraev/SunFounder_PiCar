@@ -41,7 +41,7 @@ setup(
         # Pick your license as you wish (should match "license" above)
         'License :: OSI Approved :: GNU License',
 
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.7',
     ],
 
     keywords='sunfounder raspberry pi robot car',
@@ -54,5 +54,5 @@ setup(
         'console_scripts': [
             'picar=picar:main',
         ],
-    },
+    }, install_requires=['smbus2']
 )

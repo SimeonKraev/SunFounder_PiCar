@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4627fa9e-baac-4b6d-98cf-a3017984e976" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/PCF8591.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/PCF8591.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/picar/SunFounder_PCA9685" beforeDir="false" afterPath="$PROJECT_DIR$/picar/SunFounder_PCA9685" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/picar/SunFounder_PCA9685/PCA9685.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/SunFounder_PCA9685/PCA9685.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/picar/SunFounder_PCA9685/Servo.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/SunFounder_PCA9685/Servo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/picar/SunFounder_PCA9685/show" beforeDir="false" afterPath="$PROJECT_DIR$/picar/SunFounder_PCA9685/show" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/SunFounder_TB6612/TB6612.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/SunFounder_TB6612/TB6612.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/SunFounder_TB6612/example/speed_increase.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/SunFounder_TB6612/example/speed_increase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/SunFounder_TB6612/show" beforeDir="false" afterPath="$PROJECT_DIR$/picar/SunFounder_TB6612/show" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/back_wheels.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/back_wheels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/filedb.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/filedb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picar/front_wheels.py" beforeDir="false" afterPath="$PROJECT_DIR$/picar/front_wheels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/show" beforeDir="false" afterPath="$PROJECT_DIR$/show" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,22 +17,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup.py">
+        <entry file="file://$PROJECT_DIR$/picar/back_wheels.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-              <folding>
-                <element signature="e#184#227#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="223">
+              <caret line="15" column="7" selection-start-line="15" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/show">
+        <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/Servo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+            <state relative-caret-position="280">
+              <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/PCA9685.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="92" column="15" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/show">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -58,7 +63,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/picar/SunFounder_PCA9685" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -76,6 +81,7 @@
         <option value="$PROJECT_DIR$/picar/PCF8591.py" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/show" />
+        <option value="$PROJECT_DIR$/DESCRIPTION.rst" />
       </list>
     </option>
   </component>
@@ -110,14 +116,7 @@
               <item name="SunFounder_PiCar" type="b2602c69:ProjectViewProjectNode" />
               <item name="SunFounder_PiCar" type="462c0819:PsiDirectoryNode" />
               <item name="picar" type="462c0819:PsiDirectoryNode" />
-              <item name="SunFounder_TB6612" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunFounder_PiCar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunFounder_PiCar" type="462c0819:PsiDirectoryNode" />
-              <item name="picar" type="462c0819:PsiDirectoryNode" />
-              <item name="SunFounder_TB6612" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="SunFounder_PCA9685" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,13 +154,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.102212854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102212854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49947312" visible="true" weight="0.61538464" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49947312" visible="true" weight="0.61538464" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50052685" side_tool="true" weight="0.22643554" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -187,30 +187,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/Servo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/PCA9685.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4525">
-          <caret line="181" column="18" lean-forward="true" selection-start-line="181" selection-start-column="18" selection-end-line="181" selection-end-column="18" />
-          <folding>
-            <element signature="e#386#398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/show">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/picar/SunFounder_TB6612/example/speed_increase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1700">
@@ -222,9 +198,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/picar/SunFounder_TB6612/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picar/config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/picar/PCF8591.py">
@@ -251,16 +224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
           <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picar/back_wheels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#499#535#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -302,6 +265,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MANIFEST.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DESCRIPTION.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picar/config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/show">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/PCA9685.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="92" column="15" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picar/back_wheels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="15" column="7" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picar/SunFounder_PCA9685/Servo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
         </state>
       </provider>
     </entry>
